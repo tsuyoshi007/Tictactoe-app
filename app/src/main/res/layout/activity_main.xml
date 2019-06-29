@@ -16,15 +16,22 @@
                  android:weightSum="3">
         <TableRow android:weightSum="3" android:layout_weight="1">
             <Button android:text="" android:textSize="50dp" android:layout_width="match_parent" android:layout_height="match_parent"
-                    android:layout_weight="1" android:background="@drawable/shape" android:id="@+id/button1" android:onClick="buttonClick"/>
-            <Button android:text="" android:textSize="50dp" android:layout_width="match_parent" android:layout_height="match_parent"
-                    android:layout_weight="1" android:background="@drawable/shape" android:id="@+id/button2" android:onClick="buttonClick"/>
-            <Button android:text="" android:textSize="50dp" android:layout_width="match_parent" android:layout_height="match_parent"
-                    android:layout_weight="1" android:background="@drawable/shape" android:id="@+id/button3" android:onClick="buttonClick"/>
+                    android:layout_weight="1" android:background="@drawable/shape" android:id="@+id/button1"
+                    android:onClick="buttonClick"/>
+            <Button android:text="" android:textSize="50dp" android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" android:background="@drawable/shape" android:id="@+id/button2"
+                    android:onClick="buttonClick"/>
+            <Button android:text="" android:textSize="50dp" android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" android:background="@drawable/shape" android:id="@+id/button3"
+                    android:onClick="buttonClick"/>
         </TableRow>
         <TableRow android:weightSum="3" android:layout_weight="1">
-            <Button android:text="" android:textSize="50dp" android:layout_width="match_parent" android:layout_height="match_parent"
-                    android:layout_weight="1" android:background="@drawable/shape" android:id="@+id/button4" android:onClick="buttonClick"/>
+            <Button android:text="" android:textSize="50dp" android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1" android:background="@drawable/shape" android:id="@+id/button4"
+                    android:onClick="buttonClick"/>
             <Button android:text="" android:textSize="50dp" android:layout_width="match_parent" android:layout_height="match_parent"
                     android:layout_weight="1" android:background="@drawable/shape" android:id="@+id/button5" android:onClick="buttonClick"/>
             <Button android:text="" android:textSize="50dp" android:layout_width="match_parent" android:layout_height="match_parent"
