@@ -1,2 +1,2 @@
 # Tictactoe-app
-This a simple tictactoeAndroidApp :D 
+This is a simple tictactoeAndroidApp :D
